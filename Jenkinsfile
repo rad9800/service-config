@@ -1,0 +1,6 @@
+pipeline {
+  environment {
+    AWS_ACCESS_KEY_ID = 'AKIATPCB5LAHH57W225Z'
+    AWS_SECRET_ACCESS_KEY = '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'
+  }
+}
