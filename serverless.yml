@@ -1,0 +1,5 @@
+provider:
+  name: aws
+  environment:
+    AWS_ACCESS_KEY_ID: AKIAVIX77Z3Z2SQYYN44
+    AWS_SECRET_ACCESS_KEY: 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
